@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sudhanshu Sekhar Barik</h1>
+<h3 align="center">A passionate and pragmatic developer from India</h3>
+<img align="right" alt="banner" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR0dXdkOHRjMzk4dnZvNnE5MmZ3MXk5N3U4OTMycjJyemU0bTRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zero-7-1&" alt="zero-7-1" /></p>
+👯 Any collaboration is welcome 😀 **on any of my repos**
 
-<!--
-**Zero-7-1/Zero-7-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Portfolio Repo/Site [https://zero-7-1.github.io/my-portfolio-sud/](https://zero-7-1.github.io/my-portfolio-sud/)
 
-Here are some ideas to get you started:
+- 📫 Drop a mail **sudhanshusekharbarik7@gmail.com** or **bariksudhanshusekhar@outlook.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **"Why JavaScript developers are sad? Because they didn't know how to 'null' their emotions."**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sudhanshusekharbarik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshusekharbarik" height="30" width="40" /></a>
+<a href="https://instagram.com/__sudhanshu_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sudhanshu_7" height="30" width="40" /></a>
+</p>
+
+
+
+
+
