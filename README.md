@@ -23,7 +23,7 @@
           
 <hr/>          
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zero-7-1&theme=tokyonight" alt="mystreak"/>  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zero-7-1&theme=tokyonight" alt="mystreak"/>  
 
 
 ![Snake Game](https://github.com/Zero-7-1/Zero-7-1/blob/output/github-contribution-grid-snake.svg)
