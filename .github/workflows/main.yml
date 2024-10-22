@@ -1,24 +1,21 @@
 name: Generate Snake Game Animation
 
 on:
-  # Automatically execute every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Allows manual triggering
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to Update and Deploy Snake Animation
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write  # Explicitly grant write permissions to the workflow
+
     steps:
-      # Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      # Generate the Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
@@ -27,11 +24,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the generated SVG to the output branch (GitHub Pages)
       - name: Deploy Snake Animation to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+
 
