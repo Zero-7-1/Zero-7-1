@@ -29,6 +29,8 @@
 
 ![Snake Game](https://github.com/Zero-7-1/Zero-7-1/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zero-7-1&theme=tokyonight" alt="mystreak"/>
+
 <hr/>          
 
 
