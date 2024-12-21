@@ -5,11 +5,11 @@
 <img align="right" alt="banner" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR0dXdkOHRjMzk4dnZvNnE5MmZ3MXk5N3U4OTMycjJyemU0bTRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp">
 <h3> ░░𝓘 𝔀𝓸𝓻𝓴 𝔀𝓲𝓽𝓱:░░ </h3>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" /> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" height="40" width="40"/> <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" height="40" width="40"/> <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" height="40" width="40"/>
 
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" width="40"/> <img src="https://img.icons8.com/?size=100&id=JehZxu9Wt1EE&format=png&color=000000" height="40" width="40"/>
 
 
   
