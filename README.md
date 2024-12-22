@@ -5,17 +5,17 @@
 <img align="right" alt="banner" width="370" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR0dXdkOHRjMzk4dnZvNnE5MmZ3MXk5N3U4OTMycjJyemU0bTRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp">
 <h3> ░░𝓘 𝔀𝓸𝓻𝓴 𝔀𝓲𝓽𝓱░░ </h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" /> <img src="https://img.icons8.com/?size=100&id=78Fr72VCwbPq&format=png&color=000000" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" />
+<img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" height="40" width="40"/><img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" height="40" width="40" /> <img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" height="40" width="40"/> <img src="https://img.icons8.com/?size=100&id=vATPcylxkCB7&format=png&color=000000" height="40" width="40"/> <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="40" width="40" />
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" height="40" width="40"/><img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" height="40" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=RwtOBojoLS2N&format=png&color=000000" height="40" width="40"/> <img src="https://img.icons8.com/?size=100&id=t5K2CR8feVdX&format=png&color=000000" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" height="40" width="40"/><img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" height="40" width="40"/><img src="https://img.icons8.com/?size=100&id=nn5BRPhPpKAT&format=png&color=000000" height="40" width="40"/>
 
 
 
 <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" width="40"/> <img src="https://img.icons8.com/?size=100&id=JehZxu9Wt1EE&format=png&color=000000" height="40" width="40"/>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40"/> 
+<img src="https://img.icons8.com/?size=100&id=8verEw3iUvx0&format=png&color=000000" height="40" width="40" /> <img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" height="40" width="40"/> 
 
 
 <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000g" height="40" width="40"/>
@@ -28,7 +28,7 @@
 
 ![Snake Game](https://github.com/Zero-7-1/Zero-7-1/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zero-7-1&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zero-7-1&theme=tokyonight" alt="error"/>
 
 <hr/>          
 
