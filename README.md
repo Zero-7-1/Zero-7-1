@@ -3,7 +3,7 @@
 </h1>
 
 <img align="right" alt="banner" width="370" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR0dXdkOHRjMzk4dnZvNnE5MmZ3MXk5N3U4OTMycjJyemU0bTRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp">
-<h3> ░░𝓘 𝔀𝓸𝓻𝓴 𝔀𝓲𝓽𝓱░░ </h3>
+<h3> ░░░░░░░░░░░░░░░░ </h3>
 
 <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" height="40" width="40"/><img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" height="40" width="40" /> <img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" height="40" width="40"/> <img src="https://img.icons8.com/?size=100&id=vATPcylxkCB7&format=png&color=000000" height="40" width="40"/> <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="40" width="40" />
 
@@ -18,9 +18,7 @@
 <img src="https://img.icons8.com/?size=100&id=8verEw3iUvx0&format=png&color=000000" height="40" width="40" /> <img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" height="40" width="40"/> 
 
 
-<img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000g" height="40" width="40"/>
-          
-          
+<img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000g" height="40" width="40"/><h3> ░░░░░░░░░░░░░░░░ </h3>         
 
 
           
