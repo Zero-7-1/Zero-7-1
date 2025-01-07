@@ -15,7 +15,6 @@
 
 
 <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000g" height="40" width="40"/>   
-
 <h3> ░░░░░░░░░░░░░░░░ </h3>         
 
 
@@ -24,7 +23,8 @@
 
 ![Snake Game](https://github.com/Zero-7-1/Zero-7-1/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zero-7-1&theme=tokyonight" alt="error"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zero-7-1&theme=tokyonight" alt="unabletofetch"/> <img src="https://media.giphy.com/media/3oEdv3AW6sWVSfwmKk/giphy.gif?cid=790b7611xbs328m8j9w5c5vk7liq0kvtwzje0zbtzp51bq2l&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="194" width="500"/>  
+
 
 <hr/>          
 
