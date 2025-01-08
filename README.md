@@ -20,9 +20,7 @@
 
           
 <hr/>          
-
-![Snake Game](https://github.com/Zero-7-1/Zero-7-1/blob/output/github-contribution-grid-snake.svg)
-<hr/>          
+       
 
 
 
